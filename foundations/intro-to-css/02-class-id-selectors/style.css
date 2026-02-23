@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+.odd {
+    background-color: #d87093;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#two {
+    color: hsl(240, 100%, 27%);
+    font-size: 36px;
+}
+
+/*
+    Number 4 uses the same font-size as Number 3,
+    so I added the same class to this as Number 3.
+*/
+#four {
+    background-color: rgb(144, 238, 144);
+    font-weight: bold;
+}
